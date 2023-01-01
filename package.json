@@ -1,6 +1,6 @@
 {
   "name": "tree-table",
-  "umdName": "cpReactTreeTable",
+  "umdName": "tree-table",
   "version": "1.1.1",
   "main": "dist/index.js",
   "umd": "dist/index.umd.js",
